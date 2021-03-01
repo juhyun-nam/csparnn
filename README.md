@@ -1,2 +1,6 @@
 # csparnn
-Approximate Nearest Neighbor Search for Sparse Data in C++!
+
+pysparnn implementation rewritten in c++.
+
+See [facebookresearch/pysparnn](https://github.com/facebookresearch/pysparnn).
+
